@@ -6,4 +6,7 @@ package com.zookeeper.distributed.server;
  */
 public class DistributedServer {
 
+    public   void  test(){
+
+    }
 }
