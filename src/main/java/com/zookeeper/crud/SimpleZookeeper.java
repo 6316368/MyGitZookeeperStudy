@@ -101,6 +101,6 @@ public class SimpleZookeeper {
         dm.createZkInstance();
        // dm.createZkNode();
       dm.listZkChilderNode();
-        dm.ZKClose();
+        //dm.ZKClose();
     }
 }
