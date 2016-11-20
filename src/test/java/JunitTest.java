@@ -5,7 +5,7 @@ import org.junit.Test;
  */
 public class JunitTest {
     @Test
-    public   void test(){
-        System.out.println("");
+    public void test() {
+        System.out.println("444459854541564156415641564156");
     }
 }
